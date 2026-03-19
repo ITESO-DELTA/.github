@@ -1,4 +1,4 @@
-# Welcome to the DELTA Research Group 
+# Welcome
 
 <br>
 
