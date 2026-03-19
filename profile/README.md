@@ -13,4 +13,4 @@ Created and maintained by ITESO University Graduate Students. This initiative ai
 
 ---
 
-*Disclaimer: This research group initiative has been created and is being mantained by IFFranciscoME, during his PhD in Engineering Sciences - AI at ITESO University. It does not reflect the official opinions, content or technological/economical interests from ITESO, Universidad Jesuita de Guadalajara.*
+*Disclaimer: This research group initiative has been created and is being mantained by J.Francisco Munoz-Elguezabal, during his PhD in Engineering Sciences at ITESO University. It does not reflect the institutional opinions, content or technological/economical interests from ITESO, Universidad Jesuita de Guadalajara.*
